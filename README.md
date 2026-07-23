@@ -14,11 +14,11 @@ Based in Brazil and available for remote work in Portuguese or English.
 
 | Project | Business problem | What it proves |
 |---|---|---|
-| [NextGen Analytics Platform](https://github.com/victorn198/data-pipeline-portfolio) | Combine commercial and operational signals into account-health, revenue, retention, and data-quality decisions | PostgreSQL, dbt, FastAPI, dimensional modeling, tests, monitoring, semantic metrics, and product analytics |
+| [NextGen Analytics Platform](https://github.com/victorn198/nextgen-analytics-platform) | Combine commercial and operational signals into account-health, revenue, retention, and data-quality decisions | PostgreSQL, dbt, FastAPI, dimensional modeling, tests, monitoring, semantic metrics, and product analytics |
 | [Mercora Commerce Intelligence](https://github.com/victorn198/mercora-commerce-intelligence) | Identify revenue, delivery, and repeat-purchase drivers while keeping metric lineage visible | Python, SQL, DuckDB, Dash, Plotly, bilingual UX, cohorts, RFM, and automated quality checks |
 | [LuminaFlow Operational Analytics](https://github.com/victorn198/luminaflow-operational-analytics) | Connect commercial performance to inventory exceptions and replenishment action | Power BI, PBIP/PBIR, TMDL, Power Query, DAX governance, bookmarks, and visual QA |
 
-**Live experiences:** [NextGen product tour](https://victorn198.github.io/data-pipeline-portfolio/) · [Mercora bilingual application](https://ba9ba428-78e2-4e6e-ac79-8a6dfe44fc99.plotly.app/)
+**Live experiences:** [NextGen product tour](https://victorn198.github.io/nextgen-analytics-platform/) · [Mercora bilingual application](https://ba9ba428-78e2-4e6e-ac79-8a6dfe44fc99.plotly.app/)
 
 ### Core toolkit
 
@@ -47,11 +47,11 @@ Baseado no Brasil e disponível para trabalho remoto em português ou inglês.
 
 | Projeto | Problema de negócio | O que demonstra |
 |---|---|---|
-| [NextGen Analytics Platform](https://github.com/victorn198/data-pipeline-portfolio) | Unir sinais comerciais e operacionais para apoiar decisões de saúde de contas, receita, retenção e qualidade de dados | PostgreSQL, dbt, FastAPI, modelagem dimensional, testes, monitoramento, métricas semânticas e analytics de produto |
+| [NextGen Analytics Platform](https://github.com/victorn198/nextgen-analytics-platform) | Unir sinais comerciais e operacionais para apoiar decisões de saúde de contas, receita, retenção e qualidade de dados | PostgreSQL, dbt, FastAPI, modelagem dimensional, testes, monitoramento, métricas semânticas e analytics de produto |
 | [Mercora Commerce Intelligence](https://github.com/victorn198/mercora-commerce-intelligence) | Identificar os fatores de receita, entrega e recompra mantendo a origem das métricas visível | Python, SQL, DuckDB, Dash, Plotly, experiência bilíngue, coortes, RFM e verificações automatizadas de qualidade |
 | [LuminaFlow Operational Analytics](https://github.com/victorn198/luminaflow-operational-analytics) | Conectar desempenho comercial a exceções de estoque e ações de reposição | Power BI, PBIP/PBIR, TMDL, Power Query, governança de DAX, bookmarks e validação visual |
 
-**Demonstrações online:** [tour do NextGen](https://victorn198.github.io/data-pipeline-portfolio/) · [aplicação bilíngue Mercora](https://ba9ba428-78e2-4e6e-ac79-8a6dfe44fc99.plotly.app/)
+**Demonstrações online:** [tour do NextGen](https://victorn198.github.io/nextgen-analytics-platform/) · [aplicação bilíngue Mercora](https://ba9ba428-78e2-4e6e-ac79-8a6dfe44fc99.plotly.app/)
 
 ### Ferramentas principais
 
