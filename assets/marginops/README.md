@@ -1,0 +1,1 @@
+Captura real do aplicativo MarginOps publicado no Hex, em 02/11/2026. Dados sintéticos Contoso/SQLBI. Exibição de previsão e validação em 2025. Exportada em WebP para miniatura do portfólio; nenhuma alteração nos números da interface.

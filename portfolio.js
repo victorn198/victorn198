@@ -10,7 +10,7 @@ function selectDashboard(button,updateUrl=true){
   frame.classList.add('switching');
   frame.title=button.dataset.title;
   label.textContent=new URL(button.dataset.dashboard).hostname;
-  openLink.href=button.dataset.dashboard;
+  openLink.href=button.dataset.open||button.dataset.dashboard;
   demoButtons.forEach(item=>{
     const active=item===button;
     item.classList.toggle('active',active);

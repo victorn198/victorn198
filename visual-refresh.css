@@ -141,3 +141,16 @@ a:focus-visible, button:focus-visible { outline: 3px solid #587915; outline-offs
   .project-card, .project-cover img { transition: none; }
   .project-card:hover, .project-card:hover .project-cover img { transform: none; }
 }
+
+/* Six native demos: preserve balanced project cards and tab navigation. */
+.six-projects .metriclab-card { display: flex; grid-column: auto; padding: 0 0 26px; min-height: 0; }
+.six-projects .metriclab-card .card-top { margin-top: 22px; }
+.six-projects .metriclab-card .project-cover { height: auto; min-height: 0; margin: 18px 0 28px; aspect-ratio: 16 / 9; border-radius: 0; }
+.six-projects .metriclab-card .project-cover img { object-fit: cover; }
+.six-projects .metriclab-card h3 { margin-top: 0; }
+.six-projects .metriclab-card .stack { align-self: stretch; }
+.marginops-card .card-top span:last-child { background: #e9e4fc; padding: 7px 10px; border-radius: 4px; }
+.marginops-card .project-cover { background: white; }
+.demo-tabs { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.demo-tabs button:last-child { grid-column: auto; }
+@media (max-width: 600px) { .demo-tabs { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
